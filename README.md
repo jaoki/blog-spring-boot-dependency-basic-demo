@@ -1,5 +1,5 @@
 # Demo from Blog *Debug in The Woods*
-https://debuginthewoods.net/
+https://debuginthewoods.net/blog/java-maven-try-spring-boot-dependencies/
 
 How spring-boot-dependencies BOM works. The base spring-boot-dependencies version is 3.2.11
 and observe how the dependency list gets affected when upgrading to 3.2.12 (a patch versoin upgrade) and 
